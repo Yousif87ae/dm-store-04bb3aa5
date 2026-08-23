@@ -7,20 +7,28 @@
     {
       "name": "مدير التنزيلات",
       "bundleIdentifier": "com.macdownloadmanager.remote",
-      "developerName": "Yousif · Open Source Store",
+      "developerName": "Yousif Mohamad · Open Source Store",
       "subtitle": "أفضل برنامج لتنزيل الملفات",
       "localizedDescription": "تنزيل بأعلى جودة حتى 8K · HLS · DASH · دماغ تعلّم ذاتي · تحديث تلقائي.",
       "iconURL": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/icon.png",
       "tintColor": "3b6cff",
-      "version": "1.0.3",
+      "version": "1.0",
       "versionDate": "2026-08-23",
-      "size": 3061130,
-      "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.3/DownloadManager-ios-unsigned.ipa",
+      "size": 3146185,
+      "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/DownloadManager-ios-unsigned.ipa",
       "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-08-23",
+          "localizedDescription": "الإصدار 1 — هوية موحّدة عبر الأنظمة: بلاطات علوية فاخرة، محدّد نوعٍ كلُّ قسمٍ فيه ينطق بهويّته، شروحٌ نصّية لكل عنصر، وأيقونة تحديث متماثلة، مع 32 اتصالاً و10 تنزيلات متزامنة.",
+          "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/DownloadManager-ios-unsigned.ipa",
+          "size": 3146185,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0.3",
           "date": "2026-08-23",
-          "localizedDescription": "الإصدار الأول.",
+          "localizedDescription": "الإصدار السابق.",
           "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.3/DownloadManager-ios-unsigned.ipa",
           "size": 3061130,
           "minOSVersion": "16.0"

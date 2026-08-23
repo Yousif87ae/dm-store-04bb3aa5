@@ -4,18 +4,18 @@
   "android": {
     "versionCode": 103,
     "version": "1.0.3",
-    "url": "https://github.com/Yousif87ae/open-source-store/releases/download/v1.0.3/DownloadManager-android.apk",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.3/DownloadManager-android.apk",
     "notes_ar": "الإصدار الأول: 8K · HLS · DASH · الدماغ · المُحدِّث المدمج.",
-    "notes_en": "First release: 8K · HLS · DASH · Brain · in-app updater."
+    "notes_en": "First release."
   },
   "mac": {
     "version": "2.1.0",
-    "url": "https://github.com/Yousif87ae/open-source-store/releases/download/v1.0.3/MacDownloadManager-2.1.0.dmg",
-    "notes_ar": "الإصدار الأول للماك: VISIONOS 8K · HLS/DASH.",
-    "notes_en": "First macOS release: VISIONOS 8K · HLS/DASH."
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.3/MacDownloadManager-2.1.0.dmg",
+    "notes_ar": "الإصدار الأول للماك.",
+    "notes_en": "First macOS release."
   },
   "ios": {
     "version": "1.0.3",
-    "source": "https://raw.githubusercontent.com/Yousif87ae/open-source-store/main/open-source-store.json"
+    "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json"
   }
 }

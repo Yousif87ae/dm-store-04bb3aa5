@@ -9,16 +9,16 @@
     "notes_en": "A luxurious update card appears automatically: both versions, release notes, one-tap update."
   },
   "mac": {
-    "version": "2.1.2",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.6/MacDownloadManager-2.1.2.dmg",
-    "notes_ar": "رقم النسبة ملاصق للشريط تنزيلاً ودمجاً، ونافذة تتكيف مع الشاشات الأصغر.",
-    "notes_en": "Percent beside bar for download and merge; window adapts to smaller screens."
+    "version": "2.1.3",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.7/MacDownloadManager-2.1.3.dmg",
+    "notes_ar": "بطاقة التحديث الفاخرة بالإطار المتنفّس وكبسولة الإصدارين.",
+    "notes_en": "The luxurious update card with breathing frame and version capsule."
   },
   "ios": {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json",
-    "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.6/DownloadManager-ios-unsigned.ipa",
-    "notes_ar": "رقم النسبة على الشريط، نغمة اكتمال داخل التطبيق، مع النشاط الحيّ.",
-    "notes_en": "Percent on bar, in-app completion chime, with Live Activity."
+    "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.7/DownloadManager-ios-unsigned.ipa",
+    "notes_ar": "بطاقة «يوجد تحديث جديد» الفاخرة — تقرأ متجرك على GitHub من أي مكان.",
+    "notes_en": "The luxurious update card — reads your GitHub store from anywhere."
   }
 }

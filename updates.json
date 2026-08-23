@@ -2,11 +2,11 @@
   "store": "Open Source Store",
   "updated": "2026-08-23",
   "android": {
-    "versionCode": 103,
-    "version": "1.0.3",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.3/DownloadManager-android.apk",
-    "notes_ar": "الإصدار الأول: 8K · HLS · DASH · الدماغ · المُحدِّث المدمج.",
-    "notes_en": "First release."
+    "versionCode": 104,
+    "version": "1.0.4",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.4/DownloadManager-android.apk",
+    "notes_ar": "تنزيلٌ في الخلفية بإشعار تقدّم، شريط نسبة الدمج، الحجم النهائي في القائمة، وزرٌّ واحد إيقاف⇄استئناف.",
+    "notes_en": "Background downloads with progress notification, merge-progress bar, final size in list, single Pause⇄Resume button."
   },
   "mac": {
     "version": "2.1.0",

@@ -2,11 +2,11 @@
   "store": "Open Source Store",
   "updated": "2026-08-23",
   "android": {
-    "versionCode": 108,
-    "version": "1.0.8",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.8/DownloadManager-android.apk",
-    "notes_ar": "التحديث يظهر أيضاً في الشريط الحيّ — إشعارٌ يصل أي جهازٍ مثبَّت حتى دون فتح التطبيق.",
-    "notes_en": "Updates also appear in the status bar — a notification reaches any installed device even without opening the app."
+    "versionCode": 109,
+    "version": "1.0.9",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.9/DownloadManager-android.apk",
+    "notes_ar": "كل الإشعارات مفعّلة مسبقاً، وزرّ «الصوت الأصلي» تحت كل فيديو مكتمل لتنزيل مساره الصوتي بأعلى جودة من المصدر.",
+    "notes_en": "All notification channels pre-enabled, plus an 'Original audio' button under each finished video to download its audio at source quality."
   },
   "mac": {
     "version": "2.1.3",

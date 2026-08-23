@@ -2,23 +2,24 @@
   "store": "Open Source Store",
   "updated": "2026-08-23",
   "android": {
-    "versionCode": 112,
-    "version": "1.2.0",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.2.0/DownloadManager-android.apk",
-    "notes_ar": "تحويل الصوت إلى MP3 مباشرةً، واستخراج الصوت الأصلي من الفيديو، وبطاقات إحصاء فاخرة، وإصلاح تلف التنزيل مع روابط إعادة التوجيه.",
-    "notes_en": "Direct AAC→MP3 conversion, original-audio extraction from video, premium stat cards, and a redirect/range download-corruption fix."
+    "versionCode": 113,
+    "version": "1.0",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/DownloadManager-android.apk",
+    "notes_ar": "الإصدار 1 — هوية موحّدة عبر الأنظمة: بلاطات علوية فاخرة، محدّد نوعٍ كلُّ قسمٍ فيه ينطق بهويّته، شروحٌ نصّية لكل عنصر، وأيقونة تحديث متماثلة، مع 32 اتصالاً و10 تنزيلات متزامنة.",
+    "notes_en": "Version 1 — one unified identity: premium top tiles, a per-segment type selector, per-element tooltips, a symmetric update icon, plus 32 connections and 10 simultaneous downloads."
   },
   "mac": {
-    "version": "2.1.3",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.7/MacDownloadManager-2.1.3.dmg",
-    "notes_ar": "بطاقة التحديث الفاخرة بالإطار المتنفّس وكبسولة الإصدارين.",
-    "notes_en": "The luxurious update card with breathing frame and version capsule."
+    "version": "1.0",
+    "build": "20260823170740",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/MacDownloadManager-1.0.dmg",
+    "notes_ar": "الإصدار 1 — هوية موحّدة عبر الأنظمة: بلاطات علوية فاخرة، محدّد نوعٍ كلُّ قسمٍ فيه ينطق بهويّته، شروحٌ نصّية لكل عنصر، وأيقونة تحديث متماثلة، مع 32 اتصالاً و10 تنزيلات متزامنة.",
+    "notes_en": "Version 1 — one unified identity: premium top tiles, a per-segment type selector, per-element tooltips, a symmetric update icon, plus 32 connections and 10 simultaneous downloads."
   },
   "ios": {
-    "version": "1.0.7",
+    "version": "1.0",
     "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json",
-    "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.7/DownloadManager-ios-unsigned.ipa",
-    "notes_ar": "بطاقة «يوجد تحديث جديد» الفاخرة — تقرأ متجرك على GitHub من أي مكان.",
-    "notes_en": "The luxurious update card — reads your GitHub store from anywhere."
+    "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/DownloadManager-ios-unsigned.ipa",
+    "notes_ar": "الإصدار 1 — هوية موحّدة عبر الأنظمة: بلاطات علوية فاخرة، محدّد نوعٍ كلُّ قسمٍ فيه ينطق بهويّته، شروحٌ نصّية لكل عنصر، وأيقونة تحديث متماثلة، مع 32 اتصالاً و10 تنزيلات متزامنة.",
+    "notes_en": "Version 1 — one unified identity: premium top tiles, a per-segment type selector, per-element tooltips, a symmetric update icon, plus 32 connections and 10 simultaneous downloads."
   }
 }

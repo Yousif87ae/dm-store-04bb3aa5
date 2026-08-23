@@ -2,11 +2,11 @@
   "store": "Open Source Store",
   "updated": "2026-08-23",
   "android": {
-    "versionCode": 109,
-    "version": "1.0.9",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.9/DownloadManager-android.apk",
-    "notes_ar": "كل الإشعارات مفعّلة مسبقاً، وزرّ «الصوت الأصلي» تحت كل فيديو مكتمل لتنزيل مساره الصوتي بأعلى جودة من المصدر.",
-    "notes_en": "All notification channels pre-enabled, plus an 'Original audio' button under each finished video to download its audio at source quality."
+    "versionCode": 110,
+    "version": "1.1.0",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.1.0/DownloadManager-android.apk",
+    "notes_ar": "زر «الصوت الأصلي»: يجعل المسار الصوتيّ للفيديو المُنزَّل متاحاً بجودته الأصلية من المصدر، وتحفظه بسهولة كملفٍّ صوتيّ مستقلّ فوراً.",
+    "notes_en": "'Original audio' button: makes the downloaded video's audio track available at its source quality, saved easily as a standalone audio file — instantly."
   },
   "mac": {
     "version": "2.1.3",

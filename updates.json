@@ -1,0 +1,21 @@
+{
+  "store": "Open Source Store",
+  "updated": "2026-08-23",
+  "android": {
+    "versionCode": 103,
+    "version": "1.0.3",
+    "url": "https://github.com/Yousif87ae/open-source-store/releases/download/v1.0.3/DownloadManager-android.apk",
+    "notes_ar": "الإصدار الأول: 8K · HLS · DASH · الدماغ · المُحدِّث المدمج.",
+    "notes_en": "First release: 8K · HLS · DASH · Brain · in-app updater."
+  },
+  "mac": {
+    "version": "2.1.0",
+    "url": "https://github.com/Yousif87ae/open-source-store/releases/download/v1.0.3/MacDownloadManager-2.1.0.dmg",
+    "notes_ar": "الإصدار الأول للماك: VISIONOS 8K · HLS/DASH.",
+    "notes_en": "First macOS release: VISIONOS 8K · HLS/DASH."
+  },
+  "ios": {
+    "version": "1.0.3",
+    "source": "https://raw.githubusercontent.com/Yousif87ae/open-source-store/main/open-source-store.json"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Open Source Store",
+  "identifier": "com.opensourcestore.source",
+  "subtitle": "توزيعة خاصة · تحديث تلقائي · خصوصية تامة",
+  "sourceURL": "https://raw.githubusercontent.com/Yousif87ae/open-source-store/main/open-source-store.json",
+  "apps": [
+    {
+      "name": "مدير التنزيلات",
+      "bundleIdentifier": "com.macdownloadmanager.remote",
+      "developerName": "Yousif · Open Source Store",
+      "subtitle": "أفضل برنامج لتنزيل الملفات",
+      "localizedDescription": "تنزيل بأعلى جودة حتى 8K · HLS · DASH · دماغ تعلّم ذاتي · تحديث تلقائي.",
+      "iconURL": "https://raw.githubusercontent.com/Yousif87ae/open-source-store/main/icon.png",
+      "tintColor": "3b6cff",
+      "version": "1.0.3",
+      "versionDate": "2026-08-23",
+      "size": 3061130,
+      "downloadURL": "https://github.com/Yousif87ae/open-source-store/releases/download/v1.0.3/DownloadManager-ios-unsigned.ipa",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "date": "2026-08-23",
+          "localizedDescription": "الإصدار الأول.",
+          "downloadURL": "https://github.com/Yousif87ae/open-source-store/releases/download/v1.0.3/DownloadManager-ios-unsigned.ipa",
+          "size": 3061130,
+          "minOSVersion": "16.0"
+        }
+      ]
+    }
+  ],
+  "news": []
+}

@@ -2,11 +2,11 @@
   "store": "Open Source Store",
   "updated": "2026-08-23",
   "android": {
-    "versionCode": 107,
-    "version": "1.0.7",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.7/DownloadManager-android.apk",
-    "notes_ar": "بطاقة تحديثٍ فاخرة تظهر تلقائياً: الإصداران، ملاحظات الإصدار، وتحديثٌ بنقرةٍ واحدة.",
-    "notes_en": "A luxurious update card appears automatically: both versions, release notes, one-tap update."
+    "versionCode": 108,
+    "version": "1.0.8",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.8/DownloadManager-android.apk",
+    "notes_ar": "التحديث يظهر أيضاً في الشريط الحيّ — إشعارٌ يصل أي جهازٍ مثبَّت حتى دون فتح التطبيق.",
+    "notes_en": "Updates also appear in the status bar — a notification reaches any installed device even without opening the app."
   },
   "mac": {
     "version": "2.1.3",

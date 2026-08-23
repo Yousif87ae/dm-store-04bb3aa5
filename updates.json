@@ -5,21 +5,21 @@
     "versionCode": 113,
     "version": "1.0",
     "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/DownloadManager-android.apk",
-    "notes_ar": "الإصدار 1 — هوية موحّدة عبر الأنظمة: بلاطات علوية فاخرة، محدّد نوعٍ كلُّ قسمٍ فيه ينطق بهويّته، شروحٌ نصّية لكل عنصر، وأيقونة تحديث متماثلة، مع 32 اتصالاً و10 تنزيلات متزامنة.",
-    "notes_en": "Version 1 — one unified identity: premium top tiles, a per-segment type selector, per-element tooltips, a symmetric update icon, plus 32 connections and 10 simultaneous downloads."
+    "notes_ar": "الإصدار ١ من «مدير التنزيلات»: تطبيقٌ أنيقٌ وموحّد على الآيفون والأندرويد والماك. يحفظ لك الفيديوهات والصوتيات والملفات من معظم المواقع بسرعة، ويُنزّل حتى ١٠ ملفات في وقتٍ واحد. وبجانب كلِّ زرٍّ شرحٌ بسيط يوضّح فائدته، مع تبديلٍ سهل بين العربية والإنجليزية.",
+    "notes_en": "Version 1 of Download Manager: one elegant app that works the same on iPhone, Android and Mac. It quickly saves videos, audio and files from most websites, and can download up to 10 files at once. A short hint next to every button explains what it does, and you can switch between Arabic and English with a tap."
   },
   "mac": {
     "version": "1.0",
     "build": "20260823170740",
     "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/MacDownloadManager-1.0.dmg",
-    "notes_ar": "الإصدار 1 — هوية موحّدة عبر الأنظمة: بلاطات علوية فاخرة، محدّد نوعٍ كلُّ قسمٍ فيه ينطق بهويّته، شروحٌ نصّية لكل عنصر، وأيقونة تحديث متماثلة، مع 32 اتصالاً و10 تنزيلات متزامنة.",
-    "notes_en": "Version 1 — one unified identity: premium top tiles, a per-segment type selector, per-element tooltips, a symmetric update icon, plus 32 connections and 10 simultaneous downloads."
+    "notes_ar": "الإصدار ١ من «مدير التنزيلات»: تطبيقٌ أنيقٌ وموحّد على الآيفون والأندرويد والماك. يحفظ لك الفيديوهات والصوتيات والملفات من معظم المواقع بسرعة، ويُنزّل حتى ١٠ ملفات في وقتٍ واحد. وبجانب كلِّ زرٍّ شرحٌ بسيط يوضّح فائدته، مع تبديلٍ سهل بين العربية والإنجليزية.",
+    "notes_en": "Version 1 of Download Manager: one elegant app that works the same on iPhone, Android and Mac. It quickly saves videos, audio and files from most websites, and can download up to 10 files at once. A short hint next to every button explains what it does, and you can switch between Arabic and English with a tap."
   },
   "ios": {
     "version": "1.0",
     "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json",
     "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/DownloadManager-ios-unsigned.ipa",
-    "notes_ar": "الإصدار 1 — هوية موحّدة عبر الأنظمة: بلاطات علوية فاخرة، محدّد نوعٍ كلُّ قسمٍ فيه ينطق بهويّته، شروحٌ نصّية لكل عنصر، وأيقونة تحديث متماثلة، مع 32 اتصالاً و10 تنزيلات متزامنة.",
-    "notes_en": "Version 1 — one unified identity: premium top tiles, a per-segment type selector, per-element tooltips, a symmetric update icon, plus 32 connections and 10 simultaneous downloads."
+    "notes_ar": "الإصدار ١ من «مدير التنزيلات»: تطبيقٌ أنيقٌ وموحّد على الآيفون والأندرويد والماك. يحفظ لك الفيديوهات والصوتيات والملفات من معظم المواقع بسرعة، ويُنزّل حتى ١٠ ملفات في وقتٍ واحد. وبجانب كلِّ زرٍّ شرحٌ بسيط يوضّح فائدته، مع تبديلٍ سهل بين العربية والإنجليزية.",
+    "notes_en": "Version 1 of Download Manager: one elegant app that works the same on iPhone, Android and Mac. It quickly saves videos, audio and files from most websites, and can download up to 10 files at once. A short hint next to every button explains what it does, and you can switch between Arabic and English with a tap."
   }
 }

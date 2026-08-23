@@ -2,23 +2,23 @@
   "store": "Open Source Store",
   "updated": "2026-08-23",
   "android": {
-    "versionCode": 105,
-    "version": "1.0.5",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.5/DownloadManager-android.apk",
-    "notes_ar": "استئناف التنزيل من نفس البايت بعد الإيقاف اليدوي، مع كل مزايا الخلفية والدمج والحجم النهائي.",
-    "notes_en": "Resume from the same byte after manual pause, plus background, merge-bar and final-size features."
+    "versionCode": 106,
+    "version": "1.0.6",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.6/DownloadManager-android.apk",
+    "notes_ar": "إشعار صوتي ذكي عند الاكتمال، رقم النسبة ملاصق لشريطَي التنزيل والدمج، واحتواء ديناميكي للهواتف والأجهزة اللوحية.",
+    "notes_en": "Smart completion sound, percent number on download and merge bars, dynamic fit for phones and tablets."
   },
   "mac": {
-    "version": "2.1.1",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.4/MacDownloadManager-2.1.1.dmg",
-    "notes_ar": "زرٌّ واحد إيقاف⇄استئناف، الحجم النهائي في القائمة، وشريط نسبة الدمج.",
-    "notes_en": "Single Pause⇄Resume button, final size in list, and merge-progress bar."
+    "version": "2.1.2",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.6/MacDownloadManager-2.1.2.dmg",
+    "notes_ar": "رقم النسبة ملاصق للشريط تنزيلاً ودمجاً، ونافذة تتكيف مع الشاشات الأصغر.",
+    "notes_en": "Percent beside bar for download and merge; window adapts to smaller screens."
   },
   "ios": {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json",
-    "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.5/DownloadManager-ios-unsigned.ipa",
-    "notes_ar": "نشاط حيّ (Live Activity): شريط تقدّمٍ حيّ في شاشة القفل والجزيرة الديناميكية، حتى والتطبيق مغلق.",
-    "notes_en": "Live Activity: a live progress bar on the Lock Screen and Dynamic Island, even when the app is closed."
+    "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.6/DownloadManager-ios-unsigned.ipa",
+    "notes_ar": "رقم النسبة على الشريط، نغمة اكتمال داخل التطبيق، مع النشاط الحيّ.",
+    "notes_en": "Percent on bar, in-app completion chime, with Live Activity."
   }
 }

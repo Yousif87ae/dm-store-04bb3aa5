@@ -2,11 +2,11 @@
   "store": "Open Source Store",
   "updated": "2026-08-23",
   "android": {
-    "versionCode": 106,
-    "version": "1.0.6",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.6/DownloadManager-android.apk",
-    "notes_ar": "إشعار صوتي ذكي عند الاكتمال، رقم النسبة ملاصق لشريطَي التنزيل والدمج، واحتواء ديناميكي للهواتف والأجهزة اللوحية.",
-    "notes_en": "Smart completion sound, percent number on download and merge bars, dynamic fit for phones and tablets."
+    "versionCode": 107,
+    "version": "1.0.7",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.7/DownloadManager-android.apk",
+    "notes_ar": "بطاقة تحديثٍ فاخرة تظهر تلقائياً: الإصداران، ملاحظات الإصدار، وتحديثٌ بنقرةٍ واحدة.",
+    "notes_en": "A luxurious update card appears automatically: both versions, release notes, one-tap update."
   },
   "mac": {
     "version": "2.1.2",

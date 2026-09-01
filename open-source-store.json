@@ -12,26 +12,28 @@
       "localizedDescription": "تحديث متزامن: إصلاح انعكاس النصّ العربي في نافذة المشاركة (واتساب/إنستجرام/سناب). تقوية تيك توك للروابط القصيرة vt/vm باحتياطٍ يتخطّى الحظر (فيديو + منشورات الصور + الصوت) على أندرويد و iOS. كبسولات تنزيل ملوّنة أنيقة بأزرار «موقع الملف» و«إزالة».",
       "iconURL": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/icon.png",
       "tintColor": "3b6cff",
-      "version": "1.0.3",
+      "version": "1.0",
       "versionDate": "2026-09-01",
       "size": 8478643,
       "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-ios-unsigned.ipa",
       "versions": [
         {
-          "version": "1.0.3",
+          "version": "1.0",
           "date": "2026-09-01",
           "localizedDescription": "تحديث متزامن: إصلاح انعكاس النصّ العربي في نافذة المشاركة (واتساب/إنستجرام/سناب). تقوية تيك توك للروابط القصيرة vt/vm باحتياطٍ يتخطّى الحظر (فيديو + منشورات الصور + الصوت) على أندرويد و iOS. كبسولات تنزيل ملوّنة أنيقة بأزرار «موقع الملف» و«إزالة».",
           "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-ios-unsigned.ipa",
           "size": 8478643,
-          "minOSVersion": "16.0"
+          "minOSVersion": "16.0",
+          "buildVersion": "20260901215713"
         },
         {
-          "version": "1.0.2",
+          "version": "1.0",
           "date": "2026-09-01",
           "localizedDescription": "تحديث متزامن: مِحصادٌ عامّ داخل المتصفّح المدمج يلتقط ما خلف مشغّلات JS والإعلانات (اعتراض كل طلبات الشبكة + وعي MSE) — أندرويد و iOS صارا نظيرَي الماك. تقوية التقاط وتحميل تيك توك. توحيد الهوية البصرية والبرمجية بين الأنظمة الثلاثة رمزاً برمز.",
           "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.1/DownloadManager-ios-unsigned.ipa",
           "size": 8465181,
-          "minOSVersion": "16.0"
+          "minOSVersion": "16.0",
+          "buildVersion": "20260901215713"
         },
         {
           "version": "1.0",
@@ -39,9 +41,11 @@
           "localizedDescription": "الإصدار ١ من «مدير التنزيلات»: تطبيقٌ أنيقٌ وموحّد على الآيفون والأندرويد والماك. يحفظ لك الفيديوهات والصوتيات والملفات من معظم المواقع بسرعة، ويُنزّل حتى ١٠ ملفات في وقتٍ واحد. وبجانب كلِّ زرٍّ شرحٌ بسيط يوضّح فائدته، مع تبديلٍ سهل بين العربية والإنجليزية.",
           "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/DownloadManager-ios-unsigned.ipa",
           "size": 3459156,
-          "minOSVersion": "16.0"
+          "minOSVersion": "16.0",
+          "buildVersion": "20260901215713"
         }
-      ]
+      ],
+      "buildVersion": "20260901215713"
     }
   ],
   "news": []

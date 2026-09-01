@@ -2,24 +2,25 @@
   "store": "Open Source Store",
   "updated": "2026-09-01",
   "android": {
-    "versionCode": 10001,
-    "version": "1.0.1",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.1/DownloadManager-android.apk",
-    "notes_ar": "تحديث متزامن: مِحصادٌ عامّ داخل المتصفّح المدمج يلتقط ما خلف مشغّلات JS والإعلانات (اعتراض كل طلبات الشبكة + وعي MSE) — أندرويد و iOS صارا نظيرَي الماك. تقوية التقاط وتحميل تيك توك. توحيد الهوية البصرية والبرمجية بين الأنظمة الثلاثة رمزاً برمز.",
-    "notes_en": "Synchronized update: an in-app-browser universal harvester that captures media behind JS players and ads (full network-request interception + MSE awareness) — Android and iOS now match the Mac. Stronger TikTok capture/download. Byte-for-byte unified visual & code identity across all three."
+    "versionCode": 10002,
+    "version": "1.0.2",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-android.apk",
+    "notes_ar": "تحديث متزامن: إصلاح انعكاس النصّ العربي في نافذة المشاركة (واتساب/إنستجرام/سناب). تقوية تيك توك للروابط القصيرة vt/vm باحتياطٍ يتخطّى الحظر (فيديو + منشورات الصور + الصوت) على أندرويد و iOS. كبسولات تنزيل ملوّنة أنيقة بأزرار «موقع الملف» و«إزالة».",
+    "notes_en": "Synchronized update: fixed Arabic text mirroring in the share sheet (WhatsApp/Instagram/Snap). Stronger TikTok vt/vm short links via a block-bypassing fallback (video + photo posts + audio) on Android and iOS. Elegant colored download capsules with File-location and Remove.",
+    "size": 23818228
   },
   "mac": {
     "version": "1.0.2",
     "build": "20260901191850",
-    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.1/MacDownloadManager.dmg",
-    "notes_ar": "تحديث متزامن: مِحصادٌ عامّ داخل المتصفّح المدمج يلتقط ما خلف مشغّلات JS والإعلانات (اعتراض كل طلبات الشبكة + وعي MSE) — أندرويد و iOS صارا نظيرَي الماك. تقوية التقاط وتحميل تيك توك. توحيد الهوية البصرية والبرمجية بين الأنظمة الثلاثة رمزاً برمز.",
-    "notes_en": "Synchronized update: an in-app-browser universal harvester that captures media behind JS players and ads (full network-request interception + MSE awareness) — Android and iOS now match the Mac. Stronger TikTok capture/download. Byte-for-byte unified visual & code identity across all three."
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/MacDownloadManager.dmg",
+    "notes_ar": "تحديث متزامن: إصلاح انعكاس النصّ العربي في نافذة المشاركة (واتساب/إنستجرام/سناب). تقوية تيك توك للروابط القصيرة vt/vm باحتياطٍ يتخطّى الحظر (فيديو + منشورات الصور + الصوت) على أندرويد و iOS. كبسولات تنزيل ملوّنة أنيقة بأزرار «موقع الملف» و«إزالة».",
+    "notes_en": "Synchronized update: fixed Arabic text mirroring in the share sheet (WhatsApp/Instagram/Snap). Stronger TikTok vt/vm short links via a block-bypassing fallback (video + photo posts + audio) on Android and iOS. Elegant colored download capsules with File-location and Remove."
   },
   "ios": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json",
-    "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.1/DownloadManager-ios-unsigned.ipa",
-    "notes_ar": "تحديث متزامن: مِحصادٌ عامّ داخل المتصفّح المدمج يلتقط ما خلف مشغّلات JS والإعلانات (اعتراض كل طلبات الشبكة + وعي MSE) — أندرويد و iOS صارا نظيرَي الماك. تقوية التقاط وتحميل تيك توك. توحيد الهوية البصرية والبرمجية بين الأنظمة الثلاثة رمزاً برمز.",
-    "notes_en": "Synchronized update: an in-app-browser universal harvester that captures media behind JS players and ads (full network-request interception + MSE awareness) — Android and iOS now match the Mac. Stronger TikTok capture/download. Byte-for-byte unified visual & code identity across all three."
+    "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-ios-unsigned.ipa",
+    "notes_ar": "تحديث متزامن: إصلاح انعكاس النصّ العربي في نافذة المشاركة (واتساب/إنستجرام/سناب). تقوية تيك توك للروابط القصيرة vt/vm باحتياطٍ يتخطّى الحظر (فيديو + منشورات الصور + الصوت) على أندرويد و iOS. كبسولات تنزيل ملوّنة أنيقة بأزرار «موقع الملف» و«إزالة».",
+    "notes_en": "Synchronized update: fixed Arabic text mirroring in the share sheet (WhatsApp/Instagram/Snap). Stronger TikTok vt/vm short links via a block-bypassing fallback (video + photo posts + audio) on Android and iOS. Elegant colored download capsules with File-location and Remove."
   }
 }

@@ -22,7 +22,7 @@
     "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-ios-unsigned.ipa",
     "notes_ar": "تحديث متزامن: إصلاح انعكاس النصّ العربي في نافذة المشاركة (واتساب/إنستجرام/سناب). تقوية تيك توك للروابط القصيرة vt/vm باحتياطٍ يتخطّى الحظر (فيديو + منشورات الصور + الصوت) على أندرويد و iOS. كبسولات تنزيل ملوّنة أنيقة بأزرار «موقع الملف» و«إزالة».",
     "notes_en": "Synchronized update: fixed Arabic text mirroring in the share sheet (WhatsApp/Instagram/Snap). Stronger TikTok vt/vm short links via a block-bypassing fallback (video + photo posts + audio) on Android and iOS. Elegant colored download capsules with File-location and Remove.",
-    "build": "20260901222946"
+    "build": "20260901224947"
   },
   "store_app": {
     "name": "المتجر مفتوح المصدر",

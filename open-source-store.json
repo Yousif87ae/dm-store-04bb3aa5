@@ -24,7 +24,7 @@
           "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-ios-unsigned.ipa",
           "size": 8478643,
           "minOSVersion": "16.0",
-          "buildVersion": "20260901222946"
+          "buildVersion": "20260901224947"
         },
         {
           "version": "1.0",
@@ -33,7 +33,7 @@
           "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.1/DownloadManager-ios-unsigned.ipa",
           "size": 8465181,
           "minOSVersion": "16.0",
-          "buildVersion": "20260901222946"
+          "buildVersion": "20260901224947"
         },
         {
           "version": "1.0",
@@ -42,10 +42,10 @@
           "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/DownloadManager-ios-unsigned.ipa",
           "size": 3459156,
           "minOSVersion": "16.0",
-          "buildVersion": "20260901222946"
+          "buildVersion": "20260901224947"
         }
       ],
-      "buildVersion": "20260901222946"
+      "buildVersion": "20260901224947"
     }
   ],
   "news": []

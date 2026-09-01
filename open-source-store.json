@@ -9,14 +9,22 @@
       "bundleIdentifier": "com.macdownloadmanager.remote",
       "developerName": "Yousif Mohamad · Open Source Store",
       "subtitle": "أفضل برنامج لتنزيل الملفات",
-      "localizedDescription": "الإصدار ١ من «مدير التنزيلات»: تطبيقٌ أنيقٌ وموحّد على الآيفون والأندرويد والماك. يحفظ لك الفيديوهات والصوتيات والملفات من معظم المواقع بسرعة، ويُنزّل حتى ١٠ ملفات في وقتٍ واحد. وبجانب كلِّ زرٍّ شرحٌ بسيط يوضّح فائدته، مع تبديلٍ سهل بين العربية والإنجليزية.",
+      "localizedDescription": "تحديث متزامن: مِحصادٌ عامّ داخل المتصفّح المدمج يلتقط ما خلف مشغّلات JS والإعلانات (اعتراض كل طلبات الشبكة + وعي MSE) — أندرويد و iOS صارا نظيرَي الماك. تقوية التقاط وتحميل تيك توك. توحيد الهوية البصرية والبرمجية بين الأنظمة الثلاثة رمزاً برمز.",
       "iconURL": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/icon.png",
       "tintColor": "3b6cff",
-      "version": "1.0",
-      "versionDate": "2026-08-23",
-      "size": 3459156,
-      "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0/DownloadManager-ios-unsigned.ipa",
+      "version": "1.0.2",
+      "versionDate": "2026-09-01",
+      "size": 8465181,
+      "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.1/DownloadManager-ios-unsigned.ipa",
       "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-09-01",
+          "localizedDescription": "تحديث متزامن: مِحصادٌ عامّ داخل المتصفّح المدمج يلتقط ما خلف مشغّلات JS والإعلانات (اعتراض كل طلبات الشبكة + وعي MSE) — أندرويد و iOS صارا نظيرَي الماك. تقوية التقاط وتحميل تيك توك. توحيد الهوية البصرية والبرمجية بين الأنظمة الثلاثة رمزاً برمز.",
+          "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.1/DownloadManager-ios-unsigned.ipa",
+          "size": 8465181,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.0",
           "date": "2026-08-23",

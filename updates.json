@@ -31,5 +31,14 @@
     "size": 10577776,
     "notes_ar": "تنسيق ذكيّ لـLocalDevVPN: كشف تثبيته + توجيه App Store عند غيابه + تحقّق من النفق قبل التجديد. المتجر يبقى منصّةً منفصلة لبرامجك.",
     "notes_en": "Smart LocalDevVPN coordination: detect install + App Store guidance when missing + tunnel check before renewal. The store stays a separate platform."
+  },
+  "seed_planter": {
+    "name": "مُثبِّت متجري — زرّاع البذرة (ماك)",
+    "version": "1.0",
+    "versionDate": "2026-09-01",
+    "zip": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/StoreInstaller-seed-mac.zip",
+    "size": 980583,
+    "notes_ar": "أداة الماك التي تزرع البذرة (المتجر) على هاتف الزميل: توقيعٌ بهويتك ثم دفعٌ بـdevicectl عبر الشبكة ببصمة USB — دون كابل. نقاء آبل من البداية للنهاية.",
+    "notes_en": "The Mac tool that plants the seed (the store) on a colleague's iPhone: signs with your identity then pushes via devicectl over the network using the saved USB pairing — no cable."
   }
 }

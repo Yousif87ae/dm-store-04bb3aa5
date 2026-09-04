@@ -1,6 +1,6 @@
 {
   "store": "Open Source Store",
-  "updated": "2026-09-01",
+  "updated": "2026-09-04",
   "store_app": {
     "name": "المتجر مفتوح المصدر",
     "version": "1.0",
@@ -73,7 +73,7 @@
       },
       "mac": {
         "version": "1.0",
-        "build": "20260904215650",
+        "build": "20260904222852",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-macOS.dmg",
         "notes_ar": "بناء متزامن 2026-09-04 — الإصدار 1 (تجريبي)."
       },

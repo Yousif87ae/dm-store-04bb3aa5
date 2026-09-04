@@ -46,6 +46,29 @@
         }
       ],
       "buildVersion": "20260901231201"
+    },
+    {
+      "name": "ماسح الملفات الذكي",
+      "bundleIdentifier": "com.ahmad.smartfilescanner",
+      "developerName": "Yousif · Open Source Store",
+      "subtitle": "يقرأ ويفهم على الجهاز نفسه",
+      "localizedDescription": "ماسح مستندات يقرأ ويفهم على الجهاز نفسه: عزلٌ ذكي للورقة، قراءةٌ بمواضع الكلمات، جداولُ حقيقية إلى Excel، تحويلٌ بالقالب الأصلي إلى Word، ورقةُ برهانٍ ببصمة المستند. لا خادم ولا حساب.",
+      "iconURL": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/sfs-icon.png",
+      "tintColor": "1E9E62",
+      "version": "1.0",
+      "versionDate": "2026-09-04",
+      "size": 64070686,
+      "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-09-04",
+          "localizedDescription": "بناء متزامن 2026-09-04 — الإصدار 1 (تجريبي).",
+          "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
+          "size": 64070686,
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ],
   "news": []

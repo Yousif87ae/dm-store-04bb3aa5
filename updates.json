@@ -68,12 +68,12 @@
         "versionCode": 1,
         "version": "1.0",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-arm64.apk",
-        "size": 96236402,
+        "size": 96238937,
         "notes_ar": "بناء متزامن 2026-09-05 — الإصدار 1 (تجريبي)."
       },
       "mac": {
         "version": "1.0",
-        "build": "20260905102610",
+        "build": "20260905132717",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-macOS.dmg",
         "notes_ar": "بناء متزامن 2026-09-05 — الإصدار 1 (تجريبي)."
       },

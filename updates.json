@@ -22,12 +22,14 @@
   "apps": [
     {
       "android": {
-        "versionCode": 10002,
+        "versionCode": 26090501,
         "version": "1.0",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-android.apk",
-        "notes_ar": "تحديث متزامن: إصلاح انعكاس النصّ العربي في نافذة المشاركة (واتساب/إنستجرام/سناب). تقوية تيك توك للروابط القصيرة vt/vm باحتياطٍ يتخطّى الحظر (فيديو + منشورات الصور + الصوت) على أندرويد و iOS. كبسولات تنزيل ملوّنة أنيقة بأزرار «موقع الملف» و«إزالة».",
-        "notes_en": "Synchronized update: fixed Arabic text mirroring in the share sheet (WhatsApp/Instagram/Snap). Stronger TikTok vt/vm short links via a block-bypassing fallback (video + photo posts + audio) on Android and iOS. Elegant colored download capsules with File-location and Remove.",
-        "size": 23818228
+        "notes_ar": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201",
+        "notes_en": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201",
+        "size": 23827320,
+        "versionDate": "2026-09-05",
+        "notes": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201"
       },
       "mac": {
         "version": "1.0",
@@ -65,11 +67,14 @@
       "notes_en": "Synchronized build 2026-09-05 — version 1 (experimental).",
       "uses_engine": false,
       "android": {
-        "versionCode": 1,
+        "versionCode": 26090501,
         "version": "1.0",
-        "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-arm64.apk",
-        "size": 96304665,
-        "notes_ar": "بناء متزامن 2026-09-05 — الإصدار 1 (تجريبي)."
+        "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-android.apk",
+        "size": 23827320,
+        "notes_ar": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201",
+        "versionDate": "2026-09-05",
+        "notes_en": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201",
+        "notes": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201"
       },
       "mac": {
         "version": "1.0",
@@ -88,5 +93,15 @@
   "ios": {
     "build": "20260901231201",
     "version": "1.0"
+  },
+  "android": {
+    "versionCode": 26090501,
+    "version": "1.0",
+    "versionDate": "2026-09-05",
+    "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-android.apk",
+    "size": 23827320,
+    "notes_ar": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201",
+    "notes_en": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201",
+    "notes": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201"
   }
 }

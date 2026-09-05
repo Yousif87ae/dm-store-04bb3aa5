@@ -57,7 +57,7 @@
       "tintColor": "1E9E62",
       "version": "1.0",
       "versionDate": "2026-09-05",
-      "size": 64198794,
+      "size": 64213215,
       "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
       "versions": [
         {
@@ -65,7 +65,7 @@
           "date": "2026-09-05",
           "localizedDescription": "بناء متزامن 2026-09-05 — الإصدار 1 (تجريبي).",
           "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
-          "size": 64198794,
+          "size": 64213215,
           "minOSVersion": "15.0"
         }
       ]

@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>ماسح الملفات الذكي — التثبيت على أندرويد</title>
+<meta name="description" content="تثبيت ماسح الملفات الذكي على أندرويد مباشرةً — ملف APK من المتجر العامّ، بلا حساب ولا تسجيل دخول.">
+<link rel="icon" href="../../sfs-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+  :root{
+    --ground:#F6F2E8; --ground2:#EDF1F8; --panel:rgba(255,255,255,.72); --line:rgba(14,44,94,.14); --line2:rgba(14,44,94,.08);
+    --ink:#0F1F5C; --ink2:#2E3D6B; --muted:#6B7690; --blue:#1B4F9E; --bright:#2F6BE0; --beam:#38D6F5; --lead:#12A05F; --gap:#B57708;
+    --sans:"IBM Plex Sans Arabic","SF Arabic","Geeza Pro",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  }
+  @media (prefers-color-scheme: dark){ :root{
+    --ground:#0B1220; --ground2:#101A30; --panel:rgba(255,255,255,.05); --line:rgba(255,255,255,.12); --line2:rgba(255,255,255,.07);
+    --ink:#EEF3FC; --ink2:#B9C4DA; --muted:#8593AE; --blue:#5B8BE6; --lead:#2FD98A; --gap:#F5A623;
+  }}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-weight:300;line-height:1.8;-webkit-font-smoothing:antialiased;
+    background-image:radial-gradient(700px 420px at 90% -10%,color-mix(in srgb,var(--beam) 14%,transparent),transparent 60%),linear-gradient(170deg,var(--ground),var(--ground2) 60%,var(--ground))}
+  .wrap{max-width:560px;margin:0 auto;padding:28px 18px 60px}
+  .app{display:flex;align-items:center;gap:14px}
+  .app img{width:64px;height:64px;border-radius:16px;box-shadow:0 10px 24px rgba(14,44,94,.25)}
+  .app h1{font-size:22px;font-weight:700;margin:0;line-height:1.25}
+  .app small{display:block;font-weight:300;color:var(--muted);font-size:13px}
+  .live{margin-top:14px;font-family:var(--mono);font-size:12.5px;color:var(--muted);direction:ltr;text-align:right;unicode-bidi:isolate}
+  .live b{color:var(--lead);font-weight:500}
+  .btn{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:22px;padding:18px 20px;border-radius:18px;text-decoration:none;
+    background:linear-gradient(135deg,var(--bright),var(--blue));color:#fff;font-weight:700;font-size:18px;box-shadow:0 14px 30px -10px rgba(47,107,224,.6)}
+  .btn small{display:block;font-weight:300;font-size:12.5px;opacity:.85}
+  .btn svg{flex:none}
+  .btn:active{transform:scale(.985)}
+  .alt{display:block;margin-top:10px;text-align:center;font-size:13.5px;color:var(--ink2)}
+  .alt a{color:var(--blue)}
+  .card{margin-top:22px;background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:18px 18px 6px;backdrop-filter:blur(14px)}
+  .card h2{font-size:15.5px;font-weight:600;margin:0 0 10px}
+  ol{margin:0;padding:0 18px 0 0;counter-reset:s}
+  ol li{list-style:none;position:relative;padding:0 30px 12px 0;font-size:14.5px;color:var(--ink2)}
+  ol li::before{counter-increment:s;content:counter(s,arabic-indic);position:absolute;right:0;top:2px;width:22px;height:22px;border-radius:50%;background:var(--blue);color:#fff;font-size:12px;font-weight:600;display:grid;place-items:center;font-family:var(--mono)}
+  ol li b{color:var(--ink);font-weight:600}
+  .note{font-size:13px;color:var(--muted);margin:8px 0 12px}
+  .pill{display:inline-flex;gap:8px;align-items:center;font-size:12.5px;font-weight:500;color:var(--lead);border:1px solid color-mix(in srgb,var(--lead) 40%,transparent);background:color-mix(in srgb,var(--lead) 9%,transparent);padding:5px 12px;border-radius:999px;margin-top:14px}
+  .foot{margin-top:26px;padding-top:14px;border-top:1px solid var(--line);font-size:12.5px;color:var(--muted);line-height:1.9}
+  .foot a{color:var(--blue);text-decoration:none;font-family:var(--mono);font-size:12px;direction:ltr;unicode-bidi:isolate;word-break:break-all}
+  .en{font-size:12.5px;color:var(--muted);margin-top:6px;direction:ltr;text-align:left}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="app">
+    <img src="../../sfs-icon.png" alt="">
+    <h1>ماسح الملفات الذكي<small>Smart Files Scanner · الإصدار ١ (تجريبي)</small></h1>
+  </div>
+  <div class="live" id="live">آخر بناء: … · الحجم: …</div>
+
+  <a class="btn" id="dl" href="https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-arm64.apk">
+    <span>تثبيت الآن على أندرويد<small>ملف APK · يناسب كل الهواتف الحديثة (٦٤ بت)</small></span>
+    <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="m7 10 5 5 5-5"/><path d="M4 19h16"/></svg>
+  </a>
+  <span class="alt">هاتفٌ قديم أو ٣٢ بت؟ <a href="https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-armv7.apk">نسخة armv7</a></span>
+
+  <div class="card">
+    <h2>خطوات التثبيت</h2>
+    <ol>
+      <li><b>نزّل الملف</b> بالزرّ أعلاه. قد يحذّر المتصفّح من «ملفٍ قد يضرّ» — هذا تحذيرٌ عامّ لكل APK خارج المتجر؛ اختر <b>تنزيل على أي حال</b>.</li>
+      <li><b>افتح الملف</b> من شريط التنزيلات أو من تطبيق الملفات.</li>
+      <li>إن طلب النظام الإذن: <b>الإعدادات ← السماح من هذا المصدر</b> ثم ارجع واضغط <b>تثبيت</b>.</li>
+      <li>إن ظهر Play Protect: اختر <b>تثبيت على أي حال</b> — التطبيق ليس على Google Play بعد، والفحص يُكمَل من داخل التطبيق (شاشة الفحص الذاتي).</li>
+    </ol>
+    <p class="note">التحديث لاحقاً: ثبّت الملف الجديد فوق القديم من الرابط نفسه — الرابط ثابت، والمستندات تبقى.</p>
+  </div>
+
+  <span class="pill">● كل شيء على الجهاز · لا حساب · لا خادم · لا اشتراك</span>
+
+  <div class="foot">
+    الملفّ يُنزَّل من مستودع المتجر العامّ على GitHub، ويُستبدل في مكانه مع كل بناء متزامن، فالرابط والباركود لا يتغيّران.
+    <br>صفحة الإصدار وبصمات SHA-256: <a href="https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/tag/sfs-v1">github.com/Yousif87ae/dm-store-04bb3aa5/releases/tag/sfs-v1</a>
+    <div class="en">Smart Files Scanner for Android — direct APK from the public store repository. No account, no server; all processing stays on the device.</div>
+  </div>
+</div>
+<script>
+(async () => {
+  const live = document.getElementById('live');
+  try {
+    const r = await fetch('../../updates.json', { cache: 'no-store' });
+    const d = await r.json();
+    const a = (d.apps || []).find(x => x.id === 'com.ahmad.smartfilescanner');
+    if (!a) throw 0;
+    const mb = a.android && a.android.size ? (a.android.size / 1048576).toFixed(1) + ' MB' : '';
+    const b = a.mac && a.mac.build ? a.mac.build : '';
+    const date = b ? b.slice(0,4) + '-' + b.slice(4,6) + '-' + b.slice(6,8) : (d.updated || '');
+    live.innerHTML = 'آخر بناء: <b>' + date + '</b>' + (mb ? ' · الحجم: <b>' + mb + '</b>' : '') + ' · الإصدار ' + (a.version || '1.0');
+    if (a.android && a.android.url) document.getElementById('dl').href = a.android.url;
+  } catch (e) {
+    live.textContent = 'الإصدار ١ (تجريبي) — الرابط أدناه ثابت.';
+  }
+})();
+</script>
+</body>
+</html>

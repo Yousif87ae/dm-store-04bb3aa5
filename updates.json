@@ -1,6 +1,6 @@
 {
   "store": "Open Source Store",
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "store_app": {
     "name": "المتجر مفتوح المصدر",
     "version": "1.0",
@@ -63,30 +63,27 @@
       "version": "1.0",
       "desc_ar": "ماسح مستندات يقرأ ويفهم على الجهاز نفسه: عزلٌ ذكي للورقة، قراءةٌ بمواضع الكلمات، جداولُ حقيقية إلى Excel، تحويلٌ بالقالب الأصلي إلى Word، ورقةُ برهانٍ ببصمة المستند. لا خادم ولا حساب.",
       "desc_en": "A document scanner that reads and understands on-device: smart sheet isolation, word-level reading, real tables to Excel, template-true Word export, and a proof sheet with the document fingerprint. No server, no account.",
-      "notes_ar": "بناء متزامن 2026-09-05 — الإصدار 1 (تجريبي).",
-      "notes_en": "Synchronized build 2026-09-05 — version 1 (experimental).",
+      "notes_ar": "بناء متزامن 2026-09-06 — الإصدار 1 (تجريبي).",
+      "notes_en": "Synchronized build 2026-09-06 — version 1 (experimental).",
       "uses_engine": false,
       "android": {
-        "versionCode": 26090501,
+        "versionCode": 1,
         "version": "1.0",
-        "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-android.apk",
-        "size": 23827320,
-        "notes_ar": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201",
-        "versionDate": "2026-09-05",
-        "notes_en": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201",
-        "notes": "تحديث متزامن: محرّك إنستجرام أصليّ على أندرويد — ريلز · فيديو · صور · ألبومات متعدّدة، بلا حساب وبلا ماك (توأمٌ كامل للماك والآيفون). حارس إصدار أندرويد: البيان يقرأ versionCode من داخل الـAPK. الباركود العالمي صار دائماً عبر GitHub.\nbuild_ios=20260901231201"
+        "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-arm64.apk",
+        "size": 96304665,
+        "notes_ar": "بناء متزامن 2026-09-06 — الإصدار 1 (تجريبي)."
       },
       "mac": {
         "version": "1.0",
-        "build": "20260905161027",
+        "build": "20260906085038",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-macOS.dmg",
-        "notes_ar": "بناء متزامن 2026-09-05 — الإصدار 1 (تجريبي)."
+        "notes_ar": "بناء متزامن 2026-09-06 — الإصدار 1 (تجريبي)."
       },
       "ios": {
         "version": "1.0",
         "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
         "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json",
-        "notes_ar": "بناء متزامن 2026-09-05 — الإصدار 1 (تجريبي)."
+        "notes_ar": "بناء متزامن 2026-09-06 — الإصدار 1 (تجريبي)."
       }
     }
   ],

@@ -55,7 +55,10 @@
       "version": "1.0",
       "uses_engine": true,
       "notes_ar": "تحديث متزامن: إصلاح انعكاس النصّ العربي في نافذة المشاركة (واتساب/إنستجرام/سناب). تقوية تيك توك للروابط القصيرة vt/vm باحتياطٍ يتخطّى الحظر (فيديو + منشورات الصور + الصوت) على أندرويد و iOS. كبسولات تنزيل ملوّنة أنيقة بأزرار «موقع الملف» و«إزالة».",
-      "notes_en": "Synchronized update: fixed Arabic text mirroring in the share sheet (WhatsApp/Instagram/Snap). Stronger TikTok vt/vm short links via a block-bypassing fallback (video + photo posts + audio) on Android and iOS. Elegant colored download capsules with File-location and Remove."
+      "notes_en": "Synchronized update: fixed Arabic text mirroring in the share sheet (WhatsApp/Instagram/Snap). Stronger TikTok vt/vm short links via a block-bypassing fallback (video + photo posts + audio) on Android and iOS. Elegant colored download capsules with File-location and Remove.",
+      "bundle_id": "com.macdownloadmanager.remote",
+      "scheme": "mdmremote",
+      "icon": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/icon.png"
     },
     {
       "id": "com.ahmad.smartfilescanner",
@@ -89,7 +92,10 @@
         "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
         "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json",
         "notes_ar": "بناء متزامن 2026-09-06 — الإصدار 1 (تجريبي)."
-      }
+      },
+      "bundle_id": "com.ahmad.smartfilescanner",
+      "scheme": "smartfilescanner",
+      "icon": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/sfs-icon.png"
     }
   ],
   "ios": {

@@ -72,7 +72,7 @@
       "notes_en": "Synchronized build 2026-09-07 — version 1 (experimental).",
       "uses_engine": false,
       "android": {
-        "versionCode": 1,
+        "versionCode": 2,
         "version": "1.0",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-arm64.apk",
         "size": 97532034,
@@ -80,12 +80,13 @@
       },
       "mac": {
         "version": "1.0",
-        "build": "20260907214335",
+        "build": "2",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-macOS.dmg",
         "notes_ar": "بناء متزامن 2026-09-07 — الإصدار 1 (تجريبي)."
       },
       "ios": {
         "version": "1.0",
+        "build": "2",
         "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
         "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json",
         "notes_ar": "بناء متزامن 2026-09-07 — الإصدار 1 (تجريبي)."

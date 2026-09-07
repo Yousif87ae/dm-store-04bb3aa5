@@ -56,18 +56,18 @@
       "iconURL": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/sfs-icon.png",
       "tintColor": "1E9E62",
       "version": "1.0",
-      "buildVersion": "2",
+      "buildVersion": "3",
       "versionDate": "2026-09-07",
-      "size": 65333235,
+      "size": 65333213,
       "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "2",
+          "buildVersion": "3",
           "date": "2026-09-07",
           "localizedDescription": "بناء متزامن 2026-09-07 — الإصدار 1 (تجريبي).",
           "downloadURL": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
-          "size": 65333235,
+          "size": 65333213,
           "minOSVersion": "15.0"
         }
       ]

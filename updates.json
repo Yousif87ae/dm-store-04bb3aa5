@@ -86,7 +86,10 @@
         "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/sfs-v1/SmartFilesScanner-1.0.0-iOS-unsigned.ipa",
         "source": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/open-source-store.json",
         "notes_ar": "بناء متزامن 2026-09-07 — الإصدار 1 (تجريبي)."
-      }
+      },
+      "bundle_id": "com.ahmad.smartfilescanner",
+      "scheme": "smartfilescanner",
+      "icon": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/sfs-icon.png"
     }
   ],
   "ios": {

@@ -346,10 +346,8 @@ function renderRing(){
 function doLink(){
   try{ localStorage.setItem("oss_linked_at", Date.now()); }catch(e){}
   // open the Open Source Store source / SideStore refresh where possible
-  var o=(location.origin&&location.origin.indexOf('http')===0)?location.origin:null;
-  if(o){ var src=encodeURI(o+'/آيفون/open-source-store.json');
-    var url='sidestore://source?url='+encodeURIComponent(src);
-    try{ window.location.href=url; }catch(e){} }
+  // [أُزيل ٠٩-٠٩-٢٠٢٦] كان يفتح sidestore:// على مسارٍ لا وجود له (/آيفون/…).
+  // المتجر يثبّت ويجدّد بنفسه — لا حاجة إلى SideStore.
   renderRing();
   if(navigator.vibrate) navigator.vibrate(12);
 }

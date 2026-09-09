@@ -4,22 +4,22 @@
   "store_app": {
     "name": "المتجر مفتوح المصدر",
     "version": "1.0",
-    "versionDate": "2026-09-09",
+    "versionDate": "2026-09-10",
     "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/OpenSourceStore.ipa",
-    "size": 10766206,
+    "size": 10899368,
     "notes_ar": "• صار المتجر يعرف ما على هاتفك حقّاً: إن حذفتَ تطبيقاً، اختفى من القائمة وأخبرك بذلك، وأعاده لك بضغطةٍ واحدة إن أردت.\n\n• وصرتَ ترى كلّ خطوةٍ وهي تحدث: ينزل التطبيق، ثمّ يُختم باسمك، ثمّ يصل إلى هاتفك — بدل شاشةٍ ساكنةٍ لا تدري ماذا وراءها.\n\n• وفي آخر الطريق تظهر لك بطاقةٌ خضراء تقول: تمّ، والتطبيق يعمل ٧ أيّام. ويصلك إشعارٌ بذلك أيضاً.\n\n• وأضفنا عدّاداً يريك كم تطبيقاً تسمح لك آبل بإضافته، قبل أن تبدأ — فلا يتوقّف العمل في منتصفه.\n\n• وصحّحنا لغة التطبيق كلّها: «٧ أيّام» لا «7 يوم».",
     "notes_en": "• The store now knows what is really on your phone: delete an app and it tells you, then brings it back with one tap.\n\n• You now see each step as it happens: the app downloads, gets stamped with your name, then arrives on your phone — instead of a still screen.\n\n• At the end a green card says: done, and the app works for 7 days. You get a notification too.\n\n• A new counter shows how many apps Apple still lets you add, before you start — so nothing stops halfway.",
-    "build": "13",
+    "build": "16",
     "shortVersion": "1.0"
   },
   "seed_planter": {
     "name": "مُثبِّت متجري — زرّاع البذرة (ماك)",
     "version": "1.0",
-    "versionDate": "2026-09-01",
+    "versionDate": "2026-09-10",
     "zip": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/StoreInstaller-seed-mac.zip",
-    "size": 1055482,
-    "notes_ar": "• صار المتجر يعرف ما على هاتفك حقّاً: إن حذفتَ تطبيقاً، اختفى من القائمة وأخبرك بذلك، وأعاده لك بضغطةٍ واحدة إن أردت.\n\n• وصرتَ ترى كلّ خطوةٍ وهي تحدث: ينزل التطبيق، ثمّ يُختم باسمك، ثمّ يصل إلى هاتفك — بدل شاشةٍ ساكنةٍ لا تدري ماذا وراءها.\n\n• وفي آخر الطريق تظهر لك بطاقةٌ خضراء تقول: تمّ، والتطبيق يعمل ٧ أيّام. ويصلك إشعارٌ بذلك أيضاً.\n\n• وأضفنا عدّاداً يريك كم تطبيقاً تسمح لك آبل بإضافته، قبل أن تبدأ — فلا يتوقّف العمل في منتصفه.\n\n• وصحّحنا لغة التطبيق كلّها: «٧ أيّام» لا «7 يوم».",
-    "notes_en": "• The store now knows what is really on your phone: delete an app and it tells you, then brings it back with one tap.\n\n• You now see each step as it happens: the app downloads, gets stamped with your name, then arrives on your phone — instead of a still screen.\n\n• At the end a green card says: done, and the app works for 7 days. You get a notification too.\n\n• A new counter shows how many apps Apple still lets you add, before you start — so nothing stops halfway."
+    "size": 1059764,
+    "notes_ar": "أداة الماك التي تضع المتجر على هاتف زميلك: تختمه باسمك، ثمّ ترسله إلى الجهاز بأداةٍ من آبل عبر الشبكة، مستعينةً ببصمة الكابل — من غير أن يبقى الكابل موصولاً. كلّ خطوةٍ بأداةٍ من آبل، من أوّل الطريق إلى آخره.",
+    "notes_en": "The Mac tool that puts the store on a colleague's iPhone: it stamps it with your name, then sends it to the device with an Apple tool over the network, using the pairing captured over the cable — no cable needed afterwards. Every step uses an Apple tool."
   },
   "apps": [
     {

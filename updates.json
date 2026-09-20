@@ -6,9 +6,9 @@
     "version": "1.0",
     "versionDate": "2026-09-20",
     "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/OpenSourceStore.ipa",
-    "size": 10892250,
+    "size": 10894671,
     "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-    "notes_en": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
+    "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
     "build": "20260916232225",
     "shortVersion": "1.0"
   },
@@ -28,7 +28,7 @@
         "version": "1.0",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-android.apk",
         "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-        "notes_en": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
+        "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
         "size": 24585272,
         "versionDate": "2026-09-20",
         "notes": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك."
@@ -38,14 +38,14 @@
         "build": "20260916212851",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/MacDownloadManager.dmg",
         "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-        "notes_en": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
+        "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
         "versionDate": "2026-09-20"
       },
       "ios": {
         "version": "1.0",
         "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-ios-unsigned.ipa",
         "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-        "notes_en": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
+        "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
         "build": "20260920010600",
         "versionDate": "2026-09-20",
         "size": 4763601
@@ -57,7 +57,7 @@
       "version": "1.0",
       "uses_engine": true,
       "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-      "notes_en": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
+      "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
       "bundle_id": "com.macdownloadmanager.remote",
       "scheme": "mdmremote",
       "icon": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/icon.png",
@@ -102,7 +102,7 @@
     "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-android.apk",
     "size": 24585272,
     "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-    "notes_en": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
+    "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
     "notes": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك."
   }
 }

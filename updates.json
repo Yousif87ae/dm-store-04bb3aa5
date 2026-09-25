@@ -35,7 +35,7 @@
       },
       "mac": {
         "version": "1.0",
-        "build": "20260925143413",
+        "build": "20260916212851",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/MacDownloadManager.dmg",
         "notes_ar": "• توقيعُ التطبيقاتِ يمنحُ الآن المدّةَ الكاملةَ من آبل — لا أيّاماً منقوصةً بسببِ ملفٍّ قديم.\n• التجديدُ الصامتُ يقولُ حالَه: إن توقّفَ، يُسمّي السببَ ويُشعِرُك — لا توقّفٌ خفيّ.\n• رقمُ البناءِ يُختَمُ عندَ كلِّ بناء، فتعرفُ أيَّ نسخةٍ تحمل.",
         "notes_en": "• App signing now gets the full term from Apple — no short days from a stale profile.\n• Silent renewal reports its state: if it stops, it names the reason and notifies you.\n• The build number is stamped at every build, so you know which version you have.",

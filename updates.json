@@ -1,15 +1,15 @@
 {
   "store": "Open Source Store",
-  "updated": "2026-09-20",
+  "updated": "2026-09-25",
   "store_app": {
     "name": "المتجر مفتوح المصدر",
     "version": "1.0",
-    "versionDate": "2026-09-20",
+    "versionDate": "2026-09-25",
     "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/OpenSourceStore.ipa",
-    "size": 10894671,
-    "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-    "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
-    "build": "20260916232225",
+    "size": 10919495,
+    "notes_ar": "• توقيعُ التطبيقاتِ يمنحُ الآن المدّةَ الكاملةَ من آبل — لا أيّاماً منقوصةً بسببِ ملفٍّ قديم.\n• التجديدُ الصامتُ يقولُ حالَه: إن توقّفَ، يُسمّي السببَ ويُشعِرُك — لا توقّفٌ خفيّ.\n• رقمُ البناءِ يُختَمُ عندَ كلِّ بناء، فتعرفُ أيَّ نسخةٍ تحمل.",
+    "notes_en": "• App signing now gets the full term from Apple — no short days from a stale profile.\n• Silent renewal reports its state: if it stops, it names the reason and notifies you.\n• The build number is stamped at every build, so you know which version you have.",
+    "build": "20260925143337",
     "shortVersion": "1.0"
   },
   "seed_planter": {
@@ -27,27 +27,27 @@
         "versionCode": 26091601,
         "version": "1.0",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-android.apk",
-        "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-        "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
+        "notes_ar": "• توقيعُ التطبيقاتِ يمنحُ الآن المدّةَ الكاملةَ من آبل — لا أيّاماً منقوصةً بسببِ ملفٍّ قديم.\n• التجديدُ الصامتُ يقولُ حالَه: إن توقّفَ، يُسمّي السببَ ويُشعِرُك — لا توقّفٌ خفيّ.\n• رقمُ البناءِ يُختَمُ عندَ كلِّ بناء، فتعرفُ أيَّ نسخةٍ تحمل.",
+        "notes_en": "• App signing now gets the full term from Apple — no short days from a stale profile.\n• Silent renewal reports its state: if it stops, it names the reason and notifies you.\n• The build number is stamped at every build, so you know which version you have.",
         "size": 24585272,
-        "versionDate": "2026-09-20",
-        "notes": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك."
+        "versionDate": "2026-09-25",
+        "notes": "• توقيعُ التطبيقاتِ يمنحُ الآن المدّةَ الكاملةَ من آبل — لا أيّاماً منقوصةً بسببِ ملفٍّ قديم.\n• التجديدُ الصامتُ يقولُ حالَه: إن توقّفَ، يُسمّي السببَ ويُشعِرُك — لا توقّفٌ خفيّ.\n• رقمُ البناءِ يُختَمُ عندَ كلِّ بناء، فتعرفُ أيَّ نسخةٍ تحمل."
       },
       "mac": {
         "version": "1.0",
-        "build": "20260916212851",
+        "build": "20260925143413",
         "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/MacDownloadManager.dmg",
-        "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-        "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
-        "versionDate": "2026-09-20"
+        "notes_ar": "• توقيعُ التطبيقاتِ يمنحُ الآن المدّةَ الكاملةَ من آبل — لا أيّاماً منقوصةً بسببِ ملفٍّ قديم.\n• التجديدُ الصامتُ يقولُ حالَه: إن توقّفَ، يُسمّي السببَ ويُشعِرُك — لا توقّفٌ خفيّ.\n• رقمُ البناءِ يُختَمُ عندَ كلِّ بناء، فتعرفُ أيَّ نسخةٍ تحمل.",
+        "notes_en": "• App signing now gets the full term from Apple — no short days from a stale profile.\n• Silent renewal reports its state: if it stops, it names the reason and notifies you.\n• The build number is stamped at every build, so you know which version you have.",
+        "versionDate": "2026-09-25"
       },
       "ios": {
         "version": "1.0",
         "ipa": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-ios-unsigned.ipa",
-        "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-        "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
+        "notes_ar": "• توقيعُ التطبيقاتِ يمنحُ الآن المدّةَ الكاملةَ من آبل — لا أيّاماً منقوصةً بسببِ ملفٍّ قديم.\n• التجديدُ الصامتُ يقولُ حالَه: إن توقّفَ، يُسمّي السببَ ويُشعِرُك — لا توقّفٌ خفيّ.\n• رقمُ البناءِ يُختَمُ عندَ كلِّ بناء، فتعرفُ أيَّ نسخةٍ تحمل.",
+        "notes_en": "• App signing now gets the full term from Apple — no short days from a stale profile.\n• Silent renewal reports its state: if it stops, it names the reason and notifies you.\n• The build number is stamped at every build, so you know which version you have.",
         "build": "20260920010600",
-        "versionDate": "2026-09-20",
+        "versionDate": "2026-09-25",
         "size": 4763601
       },
       "id": "com.macdownloadmanager.remote",
@@ -56,12 +56,12 @@
       "developer": "Yousif · Open Source Store",
       "version": "1.0",
       "uses_engine": true,
-      "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-      "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
+      "notes_ar": "• توقيعُ التطبيقاتِ يمنحُ الآن المدّةَ الكاملةَ من آبل — لا أيّاماً منقوصةً بسببِ ملفٍّ قديم.\n• التجديدُ الصامتُ يقولُ حالَه: إن توقّفَ، يُسمّي السببَ ويُشعِرُك — لا توقّفٌ خفيّ.\n• رقمُ البناءِ يُختَمُ عندَ كلِّ بناء، فتعرفُ أيَّ نسخةٍ تحمل.",
+      "notes_en": "• App signing now gets the full term from Apple — no short days from a stale profile.\n• Silent renewal reports its state: if it stops, it names the reason and notifies you.\n• The build number is stamped at every build, so you know which version you have.",
       "bundle_id": "com.macdownloadmanager.remote",
       "scheme": "mdmremote",
       "icon": "https://raw.githubusercontent.com/Yousif87ae/dm-store-04bb3aa5/main/icon.png",
-      "versionDate": "2026-09-20"
+      "versionDate": "2026-09-25"
     },
     {
       "id": "com.ahmad.smartfilescanner",
@@ -98,11 +98,11 @@
   "android": {
     "versionCode": 26091601,
     "version": "1.0",
-    "versionDate": "2026-09-20",
+    "versionDate": "2026-09-25",
     "url": "https://github.com/Yousif87ae/dm-store-04bb3aa5/releases/download/v1.0.2/DownloadManager-android.apk",
     "size": 24585272,
-    "notes_ar": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك.",
-    "notes_en": "• Paste any video or file link and the download starts right away — short links open automatically.\n• LinkedIn links work every way: paste them, or share from the app — the video is downloaded when there is one, otherwise the photos are saved at full quality.\n• Your downloads stay on your device and are never sent anywhere.\n• The same look on iPhone, Android and Mac.",
-    "notes": "• الصق أيّ رابط فيديو أو ملفّ، ويبدأ التنزيل فورًا — الروابط المختصرة تُفتح تلقائيًّا.\n• روابط لينكدإن تعمل من كلّ الطرق: باللصق أو بالمشاركة من التطبيق — يُحمَّل الفيديو إن وُجد، وإلّا تُحفظ الصور بأعلى جودة.\n• تنزيلاتك تبقى محفوظة على جهازك ولا تُرسَل إلى أحد.\n• يعمل بالمظهر نفسه على آيفون وأندرويد وماك."
+    "notes_ar": "• توقيعُ التطبيقاتِ يمنحُ الآن المدّةَ الكاملةَ من آبل — لا أيّاماً منقوصةً بسببِ ملفٍّ قديم.\n• التجديدُ الصامتُ يقولُ حالَه: إن توقّفَ، يُسمّي السببَ ويُشعِرُك — لا توقّفٌ خفيّ.\n• رقمُ البناءِ يُختَمُ عندَ كلِّ بناء، فتعرفُ أيَّ نسخةٍ تحمل.",
+    "notes_en": "• App signing now gets the full term from Apple — no short days from a stale profile.\n• Silent renewal reports its state: if it stops, it names the reason and notifies you.\n• The build number is stamped at every build, so you know which version you have.",
+    "notes": "• توقيعُ التطبيقاتِ يمنحُ الآن المدّةَ الكاملةَ من آبل — لا أيّاماً منقوصةً بسببِ ملفٍّ قديم.\n• التجديدُ الصامتُ يقولُ حالَه: إن توقّفَ، يُسمّي السببَ ويُشعِرُك — لا توقّفٌ خفيّ.\n• رقمُ البناءِ يُختَمُ عندَ كلِّ بناء، فتعرفُ أيَّ نسخةٍ تحمل."
   }
 }
